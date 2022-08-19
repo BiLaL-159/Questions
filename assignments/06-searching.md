@@ -23,7 +23,7 @@
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [<del>Binary Search</del>](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 - [<del>Find First and Last Position of Element in Sorted Array</del>](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
