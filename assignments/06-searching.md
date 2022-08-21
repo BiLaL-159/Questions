@@ -7,8 +7,8 @@
 # Problems:
 
 ## Added Problems
--[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
--[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
+- [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+- [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
 
 ## Easy
 - [Square Root](https://leetcode.com/problems/sqrtx/)
