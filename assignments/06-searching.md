@@ -6,6 +6,9 @@
 
 # Problems:
 
+## Added Problems
+-[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)
+
 ## Easy
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [<del>Guess Number Higher or Lower</del>](https://leetcode.com/problems/guess-number-higher-or-lower/)
